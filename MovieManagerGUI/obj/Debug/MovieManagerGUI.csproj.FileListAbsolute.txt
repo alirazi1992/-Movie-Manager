@@ -1,0 +1,9 @@
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\bin\Debug\MovieManagerGUI.exe.config
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\bin\Debug\MovieManagerGUI.exe
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\bin\Debug\MovieManagerGUI.pdb
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.exe
+C:\Users\a.razi\source\repos\MovieManagerGUI\MovieManagerGUI\obj\Debug\MovieManagerGUI.pdb

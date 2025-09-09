@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Title>Alien</Title>
+    <Year>1998</Year>
+    <Genre>Sci-Fi</Genre>
+    <Rating>7</Rating>
+  </Movie>
+  <Movie>
+    <Title>Jack Reacher</Title>
+    <Year>2001</Year>
+    <Genre>Action</Genre>
+    <Rating>7</Rating>
+  </Movie>
+  <Movie>
+    <Title>The Predator</Title>
+    <Year>2024</Year>
+    <Genre>Action</Genre>
+    <Rating>7</Rating>
+  </Movie>
+  <Movie>
+    <Title>The Predator</Title>
+    <Year>2021</Year>
+    <Genre>Action</Genre>
+    <Rating>7</Rating>
+  </Movie>
+</ArrayOfMovie>
